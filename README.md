@@ -3,8 +3,8 @@ The success of Deep learning is essentially due to outperforming other machine l
 
 The workflow is designed as follow :
 
-Import and visualize dataset (airplanes and cars images from the opensource dataset CIFAR-10).
-Feature extraction and dimensionality reduction.
-Testing different ML algorithms.
-Convolutional neural networks.
-Conclusion.
+- Import and visualize dataset (airplanes and cars images from the opensource dataset CIFAR-10).
+- Feature extraction and dimensionality reduction.
+- Testing different ML algorithms.
+- Convolutional neural networks.
+- Conclusion.
